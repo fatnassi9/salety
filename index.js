@@ -1,4 +1,4 @@
-    const URL = "https://teachablemachine.withgoogle.com/models/BqRXWKLct/";
+    const URL = "/*add you mode*/";
     let model, webcam, ctx, labelContainer, maxPredictions;
     document.getElementById('start').addEventListener('click', init);
     const wakif = document.getElementById("wa9if");
