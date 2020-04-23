@@ -1,4 +1,4 @@
-    const URL = "/*add you mode*/";
+    const URL = "/*add you model*/";
     let model, webcam, ctx, labelContainer, maxPredictions;
     document.getElementById('start').addEventListener('click', init);
     const wakif = document.getElementById("wa9if");
